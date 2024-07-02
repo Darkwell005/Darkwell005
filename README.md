@@ -6,7 +6,11 @@
   alt=""
   width="300px"
 />
-<p>My name is Alvin, I learning Python & JavaScript</p>
+<p>My name is Alvin, I learning Python & JavaScript.</p>
+<p>
+  I want to become a backend developer, also if I can I want to become a
+  fullstack developer. I am learning the basics of HTML and CSS.
+</p>
 
 
 
