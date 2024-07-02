@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<h1 align="center">Hello, my Dear friend</h1>
+<h1 align="center">Hello, friend!</h1>
 <img
   align="right"
-  src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_652a4b40c094161c02657665_652a4b6769ac1c29cc8a64d0/orig"
+  src="https://otvet.imgsmail.ru/download/5761854_85d986184bec80b9e0be76124c26c1a0_800.gif"
   alt=""
   width="300px"
 />
@@ -12,8 +12,6 @@
   fullstack developer. I am learning the basics of HTML and CSS.
 </p>
 <p>I hope I can be successful in this field.</p>
-
-
 
 
 <!--
