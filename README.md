@@ -1,7 +1,12 @@
 ## Hi dear friend's 👋
 ## My name is Alvin and I learn Python & JavaScript.
 <!DOCTYPE html>
-<img src="https://otvet.imgsmail.ru/download/5761854_85d986184bec80b9e0be76124c26c1a0_800.gif" alt="">
+<img
+  src="https://otvet.imgsmail.ru/download/5761854_85d986184bec80b9e0be76124c26c1a0_800.gif"
+  alt=""
+  width="300px"
+/>
+
 <!--
 **Darkwell005/Darkwell005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
