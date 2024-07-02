@@ -1,4 +1,3 @@
-                          ## Hi dear friend's 👋
 <!DOCTYPE html>
 <h1 align="center">Hello, my Dear friend</h1>
 <img
