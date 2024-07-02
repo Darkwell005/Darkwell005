@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
   <link rel="stylesheet" href="file.css" />
 </head>
@@ -15,6 +16,7 @@
   fullstack developer. I am learning the basics of HTML and CSS.
 </p>
 <p>I hope I can be successful in this field.</p>
+</html>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <!--
 
