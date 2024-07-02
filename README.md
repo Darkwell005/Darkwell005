@@ -15,7 +15,6 @@
   fullstack developer. I am learning the basics of HTML and CSS.
 </p>
 <p>I hope I can be successful in this field.</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My name is Alvin, I learning Python & JavaScript.)](https://git.io/typing-svg)
 <!--
 
