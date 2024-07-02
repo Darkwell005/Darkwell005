@@ -1,5 +1,5 @@
-## Hi there 👋
-## My name is Alvin
+## Hi dear friend's 👋
+## My name is Alvin and I learn Python & JavaScript.
 
 <!--
 **Darkwell005/Darkwell005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
