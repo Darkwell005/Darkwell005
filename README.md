@@ -5,7 +5,7 @@
   align="right"
   src="https://otvet.imgsmail.ru/download/5761854_85d986184bec80b9e0be76124c26c1a0_800.gif"
   alt=""
-  width="300px"
+  width="400px"
 />
 
 
