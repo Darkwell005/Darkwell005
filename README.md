@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="file.css" />
+</head>
 <h1 align="center">Hello, friend!</h1>
 <img
   align="right"
@@ -12,8 +15,7 @@
   fullstack developer. I am learning the basics of HTML and CSS.
 </p>
 <p>I hope I can be successful in this field.</p>
-<div class="reveal-text">Hi bruh</div>
-<link rel="stylesheet" href="file.css" />
+
 
 <!--
 **Darkwell005/Darkwell005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
